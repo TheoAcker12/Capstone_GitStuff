@@ -1,1 +1,5 @@
+# excludes all files beginning in log
 log*
+
+# makes an exception
+!log_10
